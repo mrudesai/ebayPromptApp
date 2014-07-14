@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eBayPrompt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="title_activity_list_pickup">All Pickups</string>
+    <string name="action_settings2">Settings</string>
+    <string name="action_search">Search</string>
+	<string name="ListAll">List All Requests</string>
+    <string name="Delivery">Delivery Code</string>
+	<string name="PickUp">Pick-up Code</string>
+</resources>

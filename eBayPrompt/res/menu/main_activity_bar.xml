@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- should always be in the overflow -->
+    <item android:id="@+id/ListAll"
+          android:title="@string/ListAll"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/Delivery"
+          android:title="@string/Delivery"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/PickUp"
+          android:title="@string/PickUp"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/action_settings2"
+          android:title="@string/action_settings2"
+          android:showAsAction="never" />
+</menu>
